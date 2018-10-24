@@ -1,0 +1,726 @@
+SUB-REPORT : 1
+
+TIME : Today, 6:52 PM on app version 372
+
+DEVICE : 'Samsung Galaxy S7 (heroqltevzw)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:789)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:98)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6944)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:327)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:1374)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 2
+
+TIME : Today, 4:24 AM on app version 372
+
+DEVICE : 'Huawei P20 lite (HWANE)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:808)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:101)'
+ '  at android.os.Looper.loop (Looper.java:166)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:7425)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:245)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:921)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 3
+
+TIME : Today, 4:24 AM on app version 372
+
+DEVICE : 'Huawei P20 lite (HWANE)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:808)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:101)'
+ '  at android.os.Looper.loop (Looper.java:166)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:7425)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:245)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:921)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 4
+
+TIME : Today, 4:24 AM on app version 372
+
+DEVICE : 'Huawei P20 lite (HWANE)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:808)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:101)'
+ '  at android.os.Looper.loop (Looper.java:166)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:7425)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:245)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:921)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 5
+
+TIME : Today, 12:49 AM on app version 372
+
+DEVICE : 'BlackBerry BlackBerry KEY2 (bbf100)', ', Android 8.1'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:790)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:99)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6558)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run (RuntimeInit.java:469)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:826)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 6
+
+TIME : Today, 12:49 AM on app version 372
+
+DEVICE : 'BlackBerry BlackBerry KEY2 (bbf100)', ', Android 8.1'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:790)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:99)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6558)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run (RuntimeInit.java:469)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:826)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 7
+
+TIME : Today, 12:49 AM on app version 372
+
+DEVICE : 'BlackBerry BlackBerry KEY2 (bbf100)', ', Android 8.1'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:790)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:99)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6558)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run (RuntimeInit.java:469)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:826)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 8
+
+TIME : Today, 12:49 AM on app version 372
+
+DEVICE : 'BlackBerry BlackBerry KEY2 (bbf100)', ', Android 8.1'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:790)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:99)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6558)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run (RuntimeInit.java:469)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:826)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 9
+
+TIME : Today, 12:49 AM on app version 372
+
+DEVICE : 'BlackBerry BlackBerry KEY2 (bbf100)', ', Android 8.1'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:790)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:99)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6558)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run (RuntimeInit.java:469)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:826)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 10
+
+TIME : Today, 12:49 AM on app version 372
+
+DEVICE : 'BlackBerry BlackBerry KEY2 (bbf100)', ', Android 8.1'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:790)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:99)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6558)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run (RuntimeInit.java:469)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:826)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 11
+
+TIME : Today, 12:49 AM on app version 372
+
+DEVICE : 'BlackBerry BlackBerry KEY2 (bbf100)', ', Android 8.1'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:790)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:99)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6558)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run (RuntimeInit.java:469)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:826)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 12
+
+TIME : Today, 12:49 AM on app version 372
+
+DEVICE : 'BlackBerry BlackBerry KEY2 (bbf100)', ', Android 8.1'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:790)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:99)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6558)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run (RuntimeInit.java:469)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:826)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 13
+
+TIME : Yesterday, 3:41 PM on app version 372
+
+DEVICE : 'Samsung Galaxy S9+ (star2lte)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:789)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:98)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6938)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:327)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:1374)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 14
+
+TIME : Yesterday, 3:41 PM on app version 372
+
+DEVICE : 'Samsung Galaxy S9+ (star2lte)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:789)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:98)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6938)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:327)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:1374)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 15
+
+TIME : Yesterday, 1:01 PM on app version 372
+
+DEVICE : 'Samsung Galaxy S9 (starqltesq)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:789)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:98)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6938)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:327)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:1374)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 16
+
+TIME : Sep 1, 12:20 PM on app version 372
+
+DEVICE : 'Samsung Galaxy S8+ (dream2qltesq)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:789)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:98)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6938)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:327)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:1374)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 17
+
+TIME : Aug 31, 8:38 PM on app version 372
+
+DEVICE : 'LGE V30 (joan)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:789)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:98)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6703)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:240)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:769)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 18
+
+TIME : Aug 29, 5:43 PM on app version 372
+
+DEVICE : 'Huawei P10 lite (HWWAS-H)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:808)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:101)'
+ '  at android.os.Looper.loop (Looper.java:166)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:7425)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:245)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:921)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 19
+
+TIME : Aug 29, 3:35 PM on app version 372
+
+DEVICE : 'Samsung Galaxy S8 (dreamlte)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:789)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:98)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6938)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:327)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:1374)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 20
+
+TIME : Aug 29, 3:35 PM on app version 372
+
+DEVICE : 'Samsung Galaxy S8 (dreamlte)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:789)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:98)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6938)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:327)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:1374)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 21
+
+TIME : Aug 29, 3:35 PM on app version 372
+
+DEVICE : 'Samsung Galaxy S8 (dreamlte)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:789)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:98)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6938)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:327)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:1374)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 22
+
+TIME : Aug 29, 3:35 PM on app version 372
+
+DEVICE : 'Samsung Galaxy S8 (dreamlte)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:789)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:98)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6938)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:327)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:1374)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 23
+
+TIME : Aug 29, 6:42 AM on app version 372
+
+DEVICE : 'Samsung Galaxy S7 edge (hero2lte)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:789)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:98)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6944)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:327)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:1374)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 24
+
+TIME : Aug 27, 3:24 AM on app version 372
+
+DEVICE : 'Samsung Galaxy S8 (dreamqlteue)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:789)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:98)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6938)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:327)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:1374)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 25
+
+TIME : Aug 26, 11:35 PM on app version 372
+
+DEVICE : 'Samsung Galaxy A5(2017) (a5y17lte)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:789)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:98)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6944)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:327)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:1374)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 26
+
+TIME : Aug 26, 4:13 AM on app version 372
+
+DEVICE : 'Samsung Galaxy S9+ (star2qltesq)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:789)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:98)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6938)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:327)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:1374)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 27
+
+TIME : Aug 25, 4:43 AM on app version 372
+
+DEVICE : 'Samsung Galaxy Note8 (greatqlte)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:789)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:98)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6940)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:327)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:1374)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 28
+
+TIME : Aug 19, 10:00 PM on app version 372
+
+DEVICE : 'Samsung Galaxy A5(2017) (a5y17lte)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:789)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:98)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6944)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:327)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:1374)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 29
+
+TIME : Aug 19, 10:00 PM on app version 372
+
+DEVICE : 'Samsung Galaxy A5(2017) (a5y17lte)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:789)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:98)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6944)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:327)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:1374)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 30
+
+TIME : Aug 18, 9:02 PM on app version 372
+
+DEVICE : 'Google Pixel 2 XL (taimen)', ', Android API 28'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:873)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:99)'
+ '  at android.os.Looper.loop (Looper.java:193)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6669)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run (RuntimeInit.java:493)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:858)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 31
+
+TIME : Aug 18, 10:16 AM on app version 372
+
+DEVICE : 'Samsung Galaxy S7  (heroqltetmo)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:789)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:98)'
+ '  at android.os.Looper.loop (Looper.java:164)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6944)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:327)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:1374)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 32
+
+TIME : Aug 16, 7:02 AM on app version 372
+
+DEVICE : 'Xiaomi Mi A1 (tissot_sprout)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:789)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:98)'
+ '  at android.os.Looper.loop (Looper.java:172)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6637)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:240)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:767)'
+
+----------------------------------------------------------------
+
+SUB-REPORT : 33
+
+TIME : Aug 16, 6:00 AM on app version 372
+
+DEVICE : 'Xiaomi Mi A1 (tissot_sprout)', ', Android 8.0'
+
+CRASH LOGS : 
+
+'java.lang.NullPointerException'
+ 
+ '  at xf.h (SourceFile:640)'
+ '  at agG.run (Unknown Source:2)'
+ '  at android.os.Handler.handleCallback (Handler.java:789)'
+ '  at android.os.Handler.dispatchMessage (Handler.java:98)'
+ '  at android.os.Looper.loop (Looper.java:172)'
+ '  at android.app.ActivityThread.main (ActivityThread.java:6637)'
+ '  at java.lang.reflect.Method.invoke (Native Method)'
+ '  at com.android.internal.os.Zygote$MethodAndArgsCaller.run (Zygote.java:240)'
+ '  at com.android.internal.os.ZygoteInit.main (ZygoteInit.java:767)'
+
+----------------------------------------------------------------
+
